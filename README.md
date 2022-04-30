@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rydaws
 - 👀 I’m interested in programming innovative software
-- 🌱 I’m currently learning Java and C, but also wish to expand into other languages
+- 🌱 I’m currently learning Java, HTML, CSS, and Javascript and look forward to expanding my knowledge.
 - 💞️ I’m looking to collaborate on any type of project
 - 📫 How to reach me dev.rdawson@gmail.com
 
