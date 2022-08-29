@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rydaws
+### Hi, I'm <a href="https://www.linkedin.com/in/ryan-dawson-558123192/"> Ryan </a> 👋
+
 - 👀 I’m interested in programming innovative software
 - 🌱 I’m currently learning Java, HTML, CSS, and Javascript and look forward to expanding my knowledge.
-- 💞️ I’m looking to collaborate on any type of project
 - 📫 How to reach me dev.rdawson@gmail.com
 
 <!---
