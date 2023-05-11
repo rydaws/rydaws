@@ -1,7 +1,7 @@
 ### Hi, I'm <a href="https://www.linkedin.com/in/ryan-dawson-558123192/"> Ryan </a> 👋
 
-- 👀 I’m interested in programming innovative software
-- 🌱 I’m currently learning Java, HTML, CSS, and Javascript and look forward to expanding my knowledge.
+- 👀 I currently work for Isles Softworks LTD working on their Island Clash product which is a SaaS Minecraft Server!
+- 🌱 I’m using learning Java, HTML, CSS, and Javascript and look forward to expanding my knowledge.
 - 📫 How to reach me dev.rdawson@gmail.com
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rydaws&count_private=true)
