@@ -1,6 +1,6 @@
 ### Hi, I'm <a href="https://www.linkedin.com/in/ryan-dawson-558123192/"> Ryan </a> 👋
 
-- 👀 I currently work for Isles Softworks LTD working on their Island Clash product which is a SaaS Minecraft Server!
+- 👀 I currently work for Isles Softworks LTD working on their Island Clash product which is a SaaS Minecraft Server and KnowQuest Inc. as apart of the Backend Development team.
 - 🌱 I’m using learning Java, HTML, CSS, and Javascript and look forward to expanding my knowledge.
 - 📫 How to reach me dev.rdawson@gmail.com
 
